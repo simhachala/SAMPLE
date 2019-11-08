@@ -1,4 +1,3 @@
-# comments
 x<-vector("logical",length = 0)
 x
 m=matrix(2:7,2,3,byrow = T)
